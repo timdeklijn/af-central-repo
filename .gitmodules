@@ -1,0 +1,3 @@
+[submodule "dags/projects/first_project"]
+	path = dags/projects/first_project
+	url = https://github.com/timdeklijn/af-first-project.git
