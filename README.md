@@ -10,3 +10,6 @@ A project is a git submodule that should be added like:
 git submodule add https://github.com/timdeklijn/af-first-project.git dags/projects/first_project
 ```
 
+``` sh
+git submodule update --remote --merge
+```
