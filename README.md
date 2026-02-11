@@ -13,3 +13,9 @@ git submodule add https://github.com/timdeklijn/af-first-project.git dags/projec
 ``` sh
 git submodule update --remote --merge
 ```
+
+To update a specifc project (which we always should do):
+
+``` sh
+git submodule update --remote --merge dags/projects/first_project
+```
